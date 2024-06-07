@@ -1,2 +1,2 @@
 # my-portfolio
-This is my portfolio web site with bootstrap 5 framework 
+Here's my portfolio website using the bootstrap 5 framework
