@@ -1,1 +1,3 @@
 .vscode
+node_modules
+.sass-cache
