@@ -1,0 +1,14 @@
+{
+  "name": "my-portfolio-v1",
+  "version": "1.1.1",
+  "description": "here's my portfolio with bootstrap 5 framework",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lengue sandra",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
